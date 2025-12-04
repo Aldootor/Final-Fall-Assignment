@@ -5,4 +5,8 @@ The Keyestudio water temperature sensor is a small electronic thermometer that t
 Inside the sensor, the DS18B20 chip measures temperature using materials that electrical properties change with heat. The chip then turns that measurement into a digital signal, so instead of a random small voltage, it sends an exact temperature value over a data line.
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/96f619c3-3ca9-41e0-81de-716df1d27521" />
-[videosensor.zip](https://github.com/user-attachments/files/23940828/videosensor.zip)
+
+
+
+https://github.com/user-attachments/assets/86af3ad6-cbc8-4803-a43b-6ac6fdb6bc75
+
