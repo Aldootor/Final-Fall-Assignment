@@ -1,1 +1,2 @@
 # Water Temperature Sensor 😁❄🔥
+The Keyestudio water temperature sensor is a small electronic thermometer that turns temperature into the arduino can read. It works by changing its electrical behavior when the water gets hotter or colder. The board converts that into a temperature value like degrees Celsius. The metal tube keeps the electronics dry but lets heat from the water reach the chip very quickly, so it reacts fast when the temperature changes.
